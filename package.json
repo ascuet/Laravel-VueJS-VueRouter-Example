@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "axios": "^0.15.2",
+    "laravel-mix": "^0.3.0",
+    "vue": "^2.0.1",
+    "vue-router": "^2.1.1"
+  }
+}
